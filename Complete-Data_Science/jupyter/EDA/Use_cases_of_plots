@@ -3,7 +3,7 @@
 2. Line Chart - it is used during wherever on x axis, we have time component.
 3. bar chart - it is used for categorical data.
 4. Count plot - it is used categorical data.
-5. pie chart - it is used for the distribution of data.
+5. pie chart - it is used for the distribution of data or distribution of different unique classes.
 6. box plot - it is use to determine the outlier.
 7. violin plot - it is used to determine the outlier.
 8. histogram/distplot - it is used for continous data.
